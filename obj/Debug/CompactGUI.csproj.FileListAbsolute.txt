@@ -1,0 +1,12 @@
+C:\Util\bin\CompactGUI.exe.config
+C:\Util\bin\CompactGUI.exe
+C:\Util\bin\CompactGUI.pdb
+C:\GIT\CompactGUI\obj\Debug\CompactGUI.csprojResolveAssemblyReference.cache
+C:\GIT\CompactGUI\obj\Debug\Aryes.AboutForm.resources
+C:\GIT\CompactGUI\obj\Debug\Aryes.Form2.resources
+C:\GIT\CompactGUI\obj\Debug\Aryes.MainForm.resources
+C:\GIT\CompactGUI\obj\Debug\Aryes.Properties.Resources.resources
+C:\GIT\CompactGUI\obj\Debug\Aryes.UC.AutoCompCombo.resources
+C:\GIT\CompactGUI\obj\Debug\CompactGUI.csproj.GenerateResource.Cache
+C:\GIT\CompactGUI\obj\Debug\CompactGUI.exe
+C:\GIT\CompactGUI\obj\Debug\CompactGUI.pdb
